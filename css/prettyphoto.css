@@ -1,11 +1,4 @@
 
-	/* ------------------------------------------------------------------- */
-	/* 5.10 PrettyPhoto - lightbox alternative */
-	/* ------------------------------------------------------------------- */  		
-		
-	/* ----------------------------------------------------------------
-	This you can edit.
-	---------------------------------------------------------------- */
 
 	div.light_rounded .pp_top .pp_left { background: url(../images/prettyPhoto/light_rounded/sprite.png) -88px -53px no-repeat; } /* Top left corner */
 	div.light_rounded .pp_top .pp_middle { background: #fff; } /* Top pattern/color */
@@ -39,9 +32,6 @@
 
 	div.light_rounded .pp_loaderIcon { background: url(../images/prettyPhoto/light_rounded/loader.gif) center center no-repeat; } /* Loader icon */
 	
-	/* ----------------------------------
-		Dark Rounded Theme
-	----------------------------------- */
 	
 	div.dark_rounded .pp_top .pp_left { background: url(../images/prettyPhoto/dark_rounded/sprite.png) -88px -53px no-repeat; } /* Top left corner */
 	div.dark_rounded .pp_top .pp_middle { background: url(../images/prettyPhoto/dark_rounded/contentPattern.png) top left repeat; } /* Top pattern/color */
@@ -76,10 +66,6 @@
 
 	div.dark_rounded .pp_loaderIcon { background: url(../images/prettyPhoto/dark_rounded/loader.gif) center center no-repeat; } /* Loader icon */
 	
-	
-	/* ----------------------------------
-		Dark Square Theme
-	----------------------------------- */
 	
 	div.dark_square .pp_left ,
 	div.dark_square .pp_middle,
@@ -180,9 +166,7 @@
 	div.facebook .pp_bottom .pp_right { background: url(../images/prettyPhoto/facebook/sprite.png) -110px -80px no-repeat; } /* Bottom right corner */
 
 
-/* ------------------------------------------------------------------------
-	DO NOT CHANGE
-------------------------------------------------------------------------- */
+
 
 	div.pp_pic_holder a:focus { outline:none; }
 
